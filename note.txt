@@ -1,2 +1,3 @@
 Nhanh master
 thay doi tu login
+thay doi tu dashboard
